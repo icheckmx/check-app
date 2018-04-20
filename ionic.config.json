@@ -1,0 +1,8 @@
+{
+  "name": "check3",
+  "app_id": "020e7f95",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
